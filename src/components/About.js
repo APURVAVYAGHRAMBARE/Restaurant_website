@@ -4,8 +4,8 @@ function About() {
   return (
     <div>
         <h1>About</h1>
-        <h2>This is Namaste React Web Series</h2>
-        { <User name={"Saumya Kushwaha"}/> }
+        <h2>This is a restaurent website</h2>
+        { <User name={"Apurva Vyaghrambare"}/> }
     </div>
   )
 }
