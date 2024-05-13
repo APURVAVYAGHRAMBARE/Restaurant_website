@@ -7,7 +7,7 @@
  * -RestaurantContainer
  * -RestaurantCard
  * -img
- * - name of restaurant, cuisines, delivery time
+ * -name of restaurant, cuisines, delivery time
  * Footer
  * -Copyright
  * -Links
